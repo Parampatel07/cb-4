@@ -1,4 +1,4 @@
-// write a programe to print name 100 time
+// write a programe to print name 1000 time
 #include <stdio.h>
 void main()
 {
